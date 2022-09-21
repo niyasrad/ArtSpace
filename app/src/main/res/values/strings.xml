@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="cyber1a">Chinese</string>
+    <string name="cyber2a">Japanese</string>
+    <string name="cyber3a">Korean</string>
+    <string name="cyber4a">Taiwanese</string>
+    <string name="cyber5a">Fillipino</string>
+    <string name="cyber6a">Jamaican</string>
+    <string name="cyber7a">Indian</string>
+    <string name="cyber8a">Afghan</string>
+    <string name="cyber1at">Box Face</string>
+    <string name="cyber2at">John Doe</string>
+    <string name="cyber3at">Amrican Pew</string>
+    <string name="cyber4at">Chin Jin</string>
+    <string name="cyber5at">Mon Mon</string>
+    <string name="cyber6at">Mori Ko</string>
+    <string name="cyber7at">Square Man</string>
+    <string name="cyber8at">Twister</string>
+
+</resources>
